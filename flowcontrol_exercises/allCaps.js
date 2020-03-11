@@ -5,7 +5,7 @@ function allCaps(string) {
     return string.toUpperCase();
   } else {
     return string;
-  };
+  }
 }
 
 const string = rlSync.question("Give me some words: ");
